@@ -41,6 +41,8 @@ codes/
   filtro_prewit/  prewit.v       + tbprewit.v
   top_module/     top_module.v, tb_checker.v, tb_image_processing.v,
                   tb_corner_cases_1.v, tb_corner_cases_2.v
+constraints/
+  Basys3_Constraints.xdc   pines de la Basys 3
 python/
   fpga_core.py    comunicación serial, reconstrucción y filtro de referencia (NumPy)
   fpga_gui.py     interfaz gráfica
