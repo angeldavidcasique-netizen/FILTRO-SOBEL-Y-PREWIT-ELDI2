@@ -7,9 +7,10 @@ el switch **SW0**) y devuelve la imagen de bordes.
 
 **Autor:** Ángel Casique
 
-**Uso de IA:** el código fue diseñado y escrito por el autor. Gemini (Google) y Claude
-(Anthropic) se usaron como apoyo de revisión y corrección (detalle en el encabezado de
-cada archivo).
+**Uso de IA:** el código fue diseñado y escrito por el autor, con apoyo de Gemini (Google)
+y Claude (Anthropic) para revisión y corrección. El uso general de la IA en todo el
+proyecto está en [`USO_DE_IA.md`](USO_DE_IA.md); los cambios específicos de cada módulo
+están en el encabezado de cada archivo.
 
 ## Arquitectura
 
