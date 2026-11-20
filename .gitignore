@@ -1,0 +1,14 @@
+*.vcd
+sim_*
+*.out
+.venv/
+__pycache__/
+*.jou
+*.log
+*.str
+.Xil/
+*.cache/
+*.runs/
+*.hw/
+*.sim/
+*.ip_user_files/
