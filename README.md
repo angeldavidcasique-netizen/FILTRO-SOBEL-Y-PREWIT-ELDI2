@@ -48,6 +48,12 @@ python/
   fpga_core.py    comunicación serial, reconstrucción y filtro de referencia (NumPy)
   fpga_gui.py     interfaz gráfica
   fpga_cli.py     versión de consola
+informe/
+  Informe_IEEE_Sobel_Prewitt.pdf    informe en formato IEEE
+esquematicos/
+  Esquematicos_Sobel_Prewitt.pdf    los seis esquemáticos, uno por página
+  esq_*.png                         cada esquemático en imagen
+  svg/esq_*.svg                     versión vectorial (zoom sin perder calidad)
 ```
 
 ## Simulación (Icarus Verilog)
