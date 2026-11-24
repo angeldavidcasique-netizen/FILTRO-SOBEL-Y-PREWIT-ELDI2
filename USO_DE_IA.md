@@ -90,6 +90,10 @@ El detalle de cada corrección está en el encabezado de cada módulo.
 ### 4.5 Documentación y repositorio
 - Agregó los encabezados con autor, declaración de IA y casos críticos en cada archivo.
 - Redactó el `README.md` y este documento.
+- Ayudó a organizar el repositorio: subió el código, los esquemáticos y el informe, y
+  ordenó los mensajes de los commits. Por esos commits, GitHub puede mostrar a
+  **Claude** en la lista de *Contributors* del repositorio; no es un colaborador
+  humano, es la herramienta de IA declarada en este documento.
 
 ## 5. Resultado
 El diseño corregido funcionó en la placa Basys 3: la imagen devuelta por la FPGA
